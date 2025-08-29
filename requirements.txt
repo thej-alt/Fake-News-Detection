@@ -1,0 +1,11 @@
+Requirements
+
+- Python >= 3.7
+- `numpy`
+- `pandas`
+- `scikit-learn`
+- `matplotlib`
+- `seaborn`
+- `logistic regression` (via `scikit-learn`)
+- `Multinomial Naive Bayes` (via `scikit-learn`)
+- `ensemble` (custom weighted ensemble implementation)
